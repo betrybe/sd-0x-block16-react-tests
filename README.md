@@ -202,6 +202,8 @@ A seguir estão listados todos os requisitos do projeto. Lembre-se que para a av
 
 Todos os arquivos de teste que vocês usarão **já estão previamente criados e novos arquivos não devem ser criados**. Como exemplo colocamos um teste dentro do arquivo `src/tests/App.test.js`. Além disso, **cada requisito se refere a um arquivo da aplicação da Pokédex**. Obter aprovação num requisito significa que todos os casos de erro daquele arquivo estão cobertos, ou seja, todos os mutantes criados naquele arquivo pelo avaliador foram mortos. Nos subitens de cada requisito detalhamos o que é necessário fazer para obter a aprovação neles.
 
+É importante tentar realizar todos os testes de cada requisito a seguir, pois eles são relevantes para os cenários apresentados e vão colocar em prática os conhecimentos de RTL que você adquiriu até aqui! :) Observe que nem todos os testes são contemplados em sua totalidade pelo avaliador, mas a sua implementação garante a aprovação no requisito.
+
 ## Lista de requisitos
 
 ### 1. Teste o componente `<App.js />`
