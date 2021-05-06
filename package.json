@@ -22,8 +22,7 @@
     "test-coverage": "react-scripts test --coverage --watchAll=false",
     "eject": "react-scripts eject",
     "lint:styles": "npx stylelint '**/*.css'",
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx",
-    "preinstall": "npm config set package-lock false"
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx"
   },
   "eslintConfig": {
     "extends": "react-app"
